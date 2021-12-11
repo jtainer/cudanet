@@ -1,3 +1,9 @@
+// 
+// Functions to create, train, and destroy a feed forward neural network on GPU
+// 
+// 2021, Jonathan Tainer
+// 
+
 #include "cudanet.h"
 #include <cuda.h>
 #include <stdlib.h>

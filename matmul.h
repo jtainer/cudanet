@@ -1,3 +1,10 @@
+// 
+// A kernel that multiplies two vectors and applies the sigmoid activation function
+//
+// 2021, Jonathan Tainer
+//
+
+
 #include <cuda.h>
 
 #ifndef MATMUL_H

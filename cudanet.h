@@ -1,3 +1,9 @@
+// 
+// Functions to create, train, and destroy a feedforward neural network on GPU
+// 
+// 2021, Jonathan Tainer
+//	
+
 #ifndef SYS_TO_DEV
 #define SYS_TO_DEV 0
 #endif

@@ -1,3 +1,9 @@
+// 
+// A kernel that multiplies two vectors and applies the sigmoid activation function
+// 
+// 2021, Jonathan Tainer
+// 
+
 #include "matmul.h"
 
 __global__
