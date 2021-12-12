@@ -34,4 +34,6 @@ void cudaDeleteLayer(Layer* devLayer);
 
 /* Forward propagation functions */
 
+void forwardPass(Layer* layer, int numOfLayers, float* inputVector, float* outputVector);
+
 #endif
